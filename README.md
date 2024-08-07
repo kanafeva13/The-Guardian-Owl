@@ -17,4 +17,6 @@ The Team: 	Joey Roberts, Anastasiia Kanafeva, Karthik Nagesh, Tom Ledger, Rushab
 "Database Schema" was created using DBdiagram.io for future use in training and testing an AI Assistant.
 
 
-https://www.facebook.com/profile.php?id=100094435881134
+Facebook Profile: https://www.facebook.com/profile.php?id=100094435881134
+
+SAS Hacker's Hub: https://communities.sas.com/t5/SAS-Hacker-s-Hub/The-Guardian-Owl-Project/ta-p/931456?emcs_t=S2h8ZW1haWx8dG9waWNfc3Vic2NyaXB0aW9ufExZVzJST0s5OENMWUg5fDkzMTQ1NnxTVUJTQ1JJUFRJT05TfGhL
